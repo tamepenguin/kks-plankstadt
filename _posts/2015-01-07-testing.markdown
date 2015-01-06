@@ -1,0 +1,10 @@
+---
+layout: default
+title:  "Sportliches."
+date:   2015-01-07 18:38:04
+categories: sportliches
+---
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id nunc elit. Curabitur sollicitudin luctus ante nec facilisis. Donec egestas mauris id ante pharetra, non varius ligula consequat. Vivamus facilisis magna sed urna ultricies convallis. Donec vel feugiat elit, eu auctor ligula. Nullam ipsum diam, porttitor id blandit nec, ornare vitae sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
