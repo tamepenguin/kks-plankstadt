@@ -4,9 +4,9 @@ title:  "Termine 2015"
 date:   2015-01-10 16:45:42
 categories: termine 
 ---
-06.01. Neujahrsempfang
+<span class="pastdue">06.01. Neujahrsempfang</span>
 
-10.01. Winterfeier
+<span class="pastdue">10.01. Winterfeier </span>
 
 25.01. Jahreshauptversammlung
 
@@ -36,3 +36,4 @@ categories: termine
 
 13.12. Weihnachtsschiessen
 
+{{ '21.1. 2015' |date: '%d.%m. %Y' }}
