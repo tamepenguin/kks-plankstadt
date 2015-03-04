@@ -5,8 +5,6 @@ date:
 categories: termine 
 ---
 # Termine 2015
-25.01. Jahreshauptversammlung  
-18.02. Heringsessen  
 16.03. Sommertagsumzug  
 29.03. Ostereierschiessen  
 01.04. Ostereierschiessen  

@@ -21,7 +21,7 @@ Tel. 06202/12312 </td>
 
 <tr>
 <td>Zweiter Vorstand</td>
-<td>Thomas Hertenstein   </td>
+<td>Bernhard Beran (kommissarisch)</td>
 </tr>
 
 <tr>
@@ -35,16 +35,12 @@ Tel. 06202/10451<br />
 
 <tr>
 <td>Schatzmeister</td>
-<td>Bernhard Berandt   </td>
+<td>Christiane Harms (kommissarisch)</td>
 </tr>
 
 <tr>
 <td>Jugendleiter</td>
-<td>Werner Oppermann <br />
- Dreieichenweg 5<br />
- 68723 Oftersheim <br />
- Tel. 06202/25742
- </td>
+<td>Jochen Eule</td>
 </tr>
 
 </table>
