@@ -16,9 +16,15 @@ Unsere eingedeckte Terrasse lädt an sonnigen Tagen zum Ausspannen und zu einem 
 
 Grundsätzlich können Sie jedes Vorstandsmitglied ansprechen oder zu unseren Öffnungszeiten der Schießanlage bzw. des Schützenhauses bei uns im 
 
-
 Bruchhäuserweg  
 68723 Plankstadt    
-Telefon (06202) 12521  
+Telefon (06202) 12521  (nur zu den Öffnungszeiten)
 
-vorbeischauen.  
+vorbeischauen.
+
+Alternativ kontaktieren Sie den Ersten Vorstand: 
+
+Jürgen Weiland  
+Mörikeweg 14  
+06202 / 12312  
+

@@ -2,30 +2,31 @@
 layout: default
 ---  
 ## Öffnungs- und Trainingszeiten  
-Öffnungszeiten:    
-Sonntag 10:00 bis 13:00    
-Mittwoch  18:00 bis 22:30    
-Samstag 14:00 bis 17:00    
+
+Sonntag 10:00 bis 12:00  
+Mittwoch  18:00 bis 22:00    
+Samstag 14:00 bis 16:00    
   
 ## Trainingszeiten:  
-Sonntag 10:00 bis 12:30  
-
-10:00 bis 12:00 Bogenschießen (Bogen werden gestellt)  
-11:00 bis 12:30 Großkaliber  
-  
-Mittwoch  18:00 bis 19:30 Jugendtraining (Luftdruckhalle)  
+__Mittwoch__  
+18:00 bis 19:30 Jugendtraining (Luftdruckhalle)  
 18:00 bis 19:30 Bogenschießen (Bogen werden gestellt)  
-19:30 bis 22:00 alle Schießstände  
+18:00 bis 22:00 alle Schießstände  
 
-Samstag 14:00 bis 17:00 alle Schießstände  
+__Samstag__  
+14:00 bis 16:00 alle Schießstände  
+
+__Sonntag__  
+10:00 bis 12:00 Bogenschießen (Bogen werden gestellt)  
+11:30 bis 12:00 Großkaliber  
   
   
-## Zusätzliche Öffnungszeiten  
+
   
-An folgenden Tagen ist das Schützenhaus bzw. die Schießanlage geschlossen:  
-1. Januar (Neujahr)  
+_An folgenden Tagen ist das Schützenhaus bzw. die Schießanlage geschlossen:_  
+Neujahr (1. Januar)
 Ostersonntag  
 Pfingstsonntag  
-1. Mai  
+Erster Mai  
 Fronleichnam  
-24. und 25. Dezember  
+Weihnachten (24. und 25. Dezember) 

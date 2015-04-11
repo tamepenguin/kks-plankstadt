@@ -26,11 +26,7 @@ Tel. 06202/12312 </td>
 
 <tr>
 <td>Schriftführer</td>
-<td>Rene Weiland <br />
-Ehehaltstraße 3 <br />
-68723 Plankstadt<br />
-Tel. 06202/10451<br />
-</td>   
+<td>Rene Weiland </td>   
 </tr>
 
 <tr>
@@ -58,13 +54,13 @@ Tel. 06202/10451<br />
 <table class="vereinstabelle">
 
 <tr>
-<td>Sportleiter Gewehr</td>
+<td>Sportleiter Langwaffen</td>
 <td>Sören Troffer</td>
 </tr>
 
 <tr>
-<td>Sportleiter Pistole </td>
-<td>Dr. Georg Goebels</td>
+<td>Sportleiter Kurzwaffen</td>
+<td>Fred Schwemmer</td>
 </tr>
 
 <tr>
@@ -73,21 +69,15 @@ Tel. 06202/10451<br />
 </tr>
 
 <tr>
-<td>Referent Gewehr </td>
-<td>Thomas Hertenstein</td>
-</tr>
-
-<tr>
 <td>Pressewart </td>
-<td>Dieter Huber<br />
-Tel. 06202/4095833</td>
+<td>Karin Beran</td>
 </tr>
 
 <tr>
 <td>Beisitzer </td>
-<td>Franz  Berlinghof<br />
-Stefan Botzenhart<br />
-Thomas Geller<br />
+<td>Helmut Reichert<br />
+Manfred Koch<br />
+Rosi Burandt<br />
 </td>
 </tr>
 </table>
