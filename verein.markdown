@@ -34,11 +34,6 @@ Tel. 06202/12312 </td>
 <td>Christiane Harms (kommissarisch)</td>
 </tr>
 
-<tr>
-<td>Jugendleiter</td>
-<td>Jochen Eule</td>
-</tr>
-
 </table>
 
 
@@ -60,19 +55,19 @@ Tel. 06202/12312 </td>
 
 <tr>
 <td>Sportleiter Kurzwaffen</td>
-<td>Fred Schwemmer</td>
+<td>NN</td>
 </tr>
 
-<tr>
-<td>Referent Pistole  </td>
-<td>Fred Schwemmer</td>
-</tr>
 
 <tr>
 <td>Pressewart </td>
 <td>Karin Beran</td>
 </tr>
 
+<tr>
+<td>Jugendleiter</td>
+<td>Jochen Euler</td>
+</tr>
 <tr>
 <td>Beisitzer </td>
 <td>Helmut Reichert<br />
