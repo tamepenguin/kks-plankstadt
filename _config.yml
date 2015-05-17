@@ -3,10 +3,9 @@ title: KKS Plankstadt
 email: je@panludens.de
 description: > # this means to ignore newlines until "baseurl:"
   KKS Plankstadt - Schützenverein mit Wachstum!
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/"# the subpath of your site, e.g. /blog/
+url: "http://www.kks-plankstadt.de" # the base hostname & protocol for your site
+github_username:  tamepenguin
 
 # Build settings
 markdown: kramdown
