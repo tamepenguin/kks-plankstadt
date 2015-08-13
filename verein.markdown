@@ -71,8 +71,7 @@ Tel. 06202/12312 </td>
 <tr>
 <td>Beisitzer </td>
 <td>Helmut Reichert<br />
-Manfred Koch<br />
-Rosi Burandt<br />
+Manfred Karl<br />
 </td>
 </tr>
 </table>
