@@ -1,24 +1,27 @@
 ---
 layout: post
-title:  "Termine 2015"
+title:  "Termine 2016"
 date:   
 categories: termine 
 ---
-# Termine 2015
-11.10. - 06.12. Vereinsmeisterschaften 2016 Kurzwaffe. [Zu den genauen Terminen](vm_kurzwaffe_2015.html)  
-17.10. Vereinsausflug  
-01.11. Königsschiessen  
-13.12. Weihnachtsschiessen  
+Vereinstermine 2016
+-------------------
 
 
-## Termine Rundenkampf LuftPistole beim KKS
-Jeweils ab 14:00 in der Luftdruckhalle  
-10.10.  
-24.10.   
-07.11.  
-21.11.  
-05.12.  
-16.01.  
+30.07. Ferienprogramm  
+14.09. 19:30 Uhr Außerordentliche Mitgliederversammlung: Neue Vereinssatzung    
+02.10. Westernschiessen  
+02. + 03.10. Ziele im Visier  
+16.10. Vereinsausflug  
+06.11. Königsschießen  
+11.12. Weihnachtsschießen  
+  
+  
+06.01.2017 Neujahrsempfang  
+08.01.2017 Winterfeier  
+
+
+
 
 
 

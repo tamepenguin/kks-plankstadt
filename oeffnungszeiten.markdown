@@ -18,7 +18,7 @@ __Samstag__
 
 __Sonntag__  
 10:00 bis 12:00 Bogenschießen (Bogen werden gestellt)  
-11:30 bis 12:00 Großkaliber  
+11:00 bis 12:00 Großkaliber  
   
   
 

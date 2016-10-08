@@ -21,7 +21,7 @@ Tel. 06202/12312 </td>
 
 <tr>
 <td>Zweiter Vorstand</td>
-<td>Bernhard Beran (kommissarisch)</td>
+<td>Bernhard Beran</td>
 </tr>
 
 <tr>
@@ -31,8 +31,14 @@ Tel. 06202/12312 </td>
 
 <tr>
 <td>Schatzmeister</td>
-<td>Christiane Harms (kommissarisch)</td>
+<td>Christiane Harms</td>
 </tr>
+
+<tr>
+<td>Hauptsportleiter</td>
+<td>Manfred Karl</td>
+</tr>
+
 
 </table>
 
@@ -71,7 +77,6 @@ Tel. 06202/12312 </td>
 <tr>
 <td>Beisitzer </td>
 <td>Helmut Reichert<br />
-Manfred Karl<br />
 </td>
 </tr>
 </table>

@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
+ 
 # Willkommen beim KKS
-
 Kreative, innovative Sportschützen sind Mitglieder unseres Schützenvereins. Wir laden Sie ein, unseren Schützenverein z.B. durch unseren Internet Auftritt oder durch einen Besuch unseres Schützenhauses kennen zu lernen.
 
 ##Unser Schützenverein bietet Ihnen ...
