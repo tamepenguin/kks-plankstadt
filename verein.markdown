@@ -7,7 +7,7 @@ layout: default
 Die aktuelle Satzung des Vereins können finden Sie [hier][satzung] zum Nachlesen.
 
 
-##Geschäftsführender Vorstand
+## Geschäftsführender Vorstand
 
 <table class="vereinstabelle">
 <tr>
@@ -49,7 +49,7 @@ Tel. 06202/12312 </td>
 
 
 
-##Erweiterter Vorstand
+## Erweiterter Vorstand
 
 
 <table class="vereinstabelle">
@@ -82,7 +82,7 @@ Tel. 06202/12312 </td>
 </table>
 
 
-##Jugendvorstand
+## Jugendvorstand
 
 <table class="vereinstabelle">
 <tr>
